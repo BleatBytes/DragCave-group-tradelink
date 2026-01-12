@@ -7,6 +7,8 @@
 // @match        https://dragcave.net/trading*
 // @icon         https://icons.duckduckgo.com/ip2/dragcave.net.ico
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/BleatBytes/DragCave-group-tradelink/refs/heads/main/Dragon Cave - Auto Groups Links-1.0.user.js
+// @downloadURL    https://raw.githubusercontent.com/BleatBytes/DragCave-group-tradelink/refs/heads/main/Dragon Cave - Auto Groups Links-1.0.user.js
 // ==/UserScript==
 
 function waitDOMContent(func) {
